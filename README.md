@@ -38,21 +38,21 @@ schools, colleges, and coaching institutions.  -->
 ### 1️⃣ Cloud-Based E-Commerce Platform 
 ✅ **Tech:** ASP.NET Core Microservices, Angular, Azure Kubernetes Service (AKS) <br />
 ✅ **Features:** Auto-scaling, OAuth2 security, Redis caching, CI/CD via Azure DevOps  <br />
-✅ 🔗 **Links:** Live Demo | GitHub Repo
+✅ 🔗 **Links:** [Live Demo](#) | [GitHub Repo](#)
 
 ---
 
 ### 2️⃣ Real-Time Financial Dashboard
 ✅ **Tech:** .NET 7, React, SignalR, Azure Functions <br />
 ✅ **Features:** Real-time data streaming, Azure Cosmos DB, D3.js visualizations  <br />
-✅ 🔗 **Links:** Case Study <br />
+✅ 🔗 **Links:** [Case Study](#) <br />
 
 ---
 
 ### 3️⃣ Automated CI/CD Pipeline Template
 ✅ **Tech:** Azure DevOps, Docker, SonarQube, Terraform <br />
 ✅ **Features:** Blue-Green deployments, Infrastructure-as-Code (IaC)  <br />
-✅ 🔗 **Links:** Template Repo <br />
+✅ 🔗 **Links:** [Template Repo](#) <br />
 
 
 
@@ -76,9 +76,9 @@ schools, colleges, and coaching institutions.  -->
 
 ## 📫 Let’s connect
 
-🌐 Website: https://buntox.com | https://dronakulam.com 
-💼 LinkedIn: *[Ajay Prakash ](https://www.linkedin.com/in/ajay-prakash-81734259)*
-📧 Email: *[buntox.ajay@gmail.com](buntox.ajay@gmail.com)*
+🌐 Website: https://buntox.com | https://dronakulam.com <br />
+💼 LinkedIn: *[Ajay Prakash ](https://www.linkedin.com/in/ajay-prakash-81734259)* <br />
+📧 Email: *[buntox.ajay@gmail.com](buntox.ajay@gmail.com)* <br />
 
 > “Build software that actually solves real problems.”
 
