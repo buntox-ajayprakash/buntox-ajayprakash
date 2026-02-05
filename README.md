@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ajay Prakash
 
-🚀 Full-Stack Developer Developer | C# | .NET | Angular 17+ | Blazor | AI-Enhanced Development | AI-First | Azure | SaaS Expert
+🚀 Senior Full-Stack Developer Developer | C# | .NET | Angular 17+ | Blazor | AI-Enhanced Development | AI-First | Azure | SaaS Expert
+<!-- Full-Stack Developer Developer | C# | .NET | Angular 17+ | Blazor | AI-Enhanced Development | AI-First | Azure | SaaS Expert -->
 <!-- .NET C# Senior Developer / Team Lead / Architect | Blazor -->
 <!-- Web Developer | C# | .NET | Angular | Blazor | AI-Enhanced Development -->
 
