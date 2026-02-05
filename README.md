@@ -22,11 +22,11 @@ schools, colleges, and coaching institutions.  -->
  Tech Stack
 | Category           | Technologies                                                                                      |
 |--------------------|---------------------------------------------------------------------------------------------------|
-| Backend            | .NET 6/7, ASP.NET Core, C#, Entity Framework, Dapper, Entity Framework Core, SignalR                                     |
+| Backend            | .NET 6/7, ASP.NET Core, C#, Entity Framework, Dapper, Entity Framework Core, SignalR              |
 | Frontend           | Angular, React, TypeScript, Blazor, HTML/CSS (Bootstrap/Tailwind)                                 |
 | Cloud & DevOps     | Azure (App Services, Functions, AKS, DevOps), Docker, Kubernetes, Terraform                       |
 | Databases          | SQL Server, MySql,  PostgreSQL, Firebase, Cosmos DB, Redis               |
-| APIs & Security    | RESTful APIs, GraphQL, OAuth2, JWT, IdentityServer4, OpenID Connect                                |
+| APIs & Security    | RESTful APIs, GraphQL, OAuth2, JWT, IdentityServer4, OpenID Connect                               |
 | Testing            | xUnit, NUnit, Moq, Integration Tests, Selenium (for E2E)                      |
 | Tools              | Visual Studio, VS Code, Jira, Bitbucket, DB Forge, Antigravity etc.. |
 
@@ -58,10 +58,10 @@ schools, colleges, and coaching institutions.  -->
 
 ## 🏗️ What I’m building
 
-✅ 🎓 School / College ERP (Offline + Online Sync) <br />
-✅ 💳 Fee, Invoice & Accounting Systems <br />
-✅ 🔐 Secure Auth & Role-based Access <br />
-✅ ⚡ High-performance APIs & database optimization <br />
+🎓 School / College ERP (Offline + Online Sync) <br />
+💳 Fee, Invoice & Accounting Systems <br />
+🔐 Secure Auth & Role-based Access <br />
+⚡ High-performance APIs & database optimization <br />
 
 ---
 
