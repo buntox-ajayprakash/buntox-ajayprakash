@@ -22,7 +22,7 @@ schools, colleges, and coaching institutions.  -->
  Tech Stack
 | Category           | Technologies                                                                                      |
 |--------------------|---------------------------------------------------------------------------------------------------|
-| Backend            | .NET 4.0+, ASP.NET Core, C#, Entity Framework, Dapper, Entity Framework Core, SignalR              |
+| Backend            | .NET 4.0+, ASP.NET Core, C#, Dapper, Entity Framework, Entity Framework Core, SignalR              |
 | Frontend           | Angular, React, TypeScript, Blazor, PrimeNG, HTML/CSS (Bootstrap/Tailwind)                                 |
 | Cloud & DevOps     | Azure (App Services, Functions, AKS, DevOps), Docker, Kubernetes, Terraform                       |
 | Databases          | SQL Server, MySql,  PostgreSQL, Firebase, Cosmos DB, Redis               |
