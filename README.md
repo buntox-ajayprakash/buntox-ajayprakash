@@ -35,7 +35,7 @@ schools, colleges, and coaching institutions.  -->
 
 ## 🚀 Featured Projects
 
-### 1️⃣ Multi Tenant Platform for Educational Institutions 
+### 1️⃣ Multi Tenant SaaS ERP Platform for Educational Institutions 
 ✅ **Tech:** ASP.NET Core Microservices, Angular, Azure Kubernetes Service (AKS) <br />
 ✅ **Features:** Auto-scaling, OAuth2 security, Redis caching, CI/CD via Azure DevOps  <br />
 ✅ 🔗 **Links:** <a href="https://dronakulam.com" target="_blank" rel="noopener noreferrer">
