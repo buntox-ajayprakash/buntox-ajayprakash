@@ -76,9 +76,9 @@ schools, colleges, and coaching institutions.  -->
 
 ## 📫 Let’s connect
 
-- 🌐 Website: https://buntox.com | https://dronakulam.com 
-- 💼 LinkedIn: *[Ajay Prakash ](https://www.linkedin.com/in/ajay-prakash-81734259)*
-- 📧 Email: *[buntox.ajay@gmail.com](buntox.ajay@gmail.com)*
+🌐 Website: https://buntox.com | https://dronakulam.com 
+💼 LinkedIn: *[Ajay Prakash ](https://www.linkedin.com/in/ajay-prakash-81734259)*
+📧 Email: *[buntox.ajay@gmail.com](buntox.ajay@gmail.com)*
 
 > “Build software that actually solves real problems.”
 
